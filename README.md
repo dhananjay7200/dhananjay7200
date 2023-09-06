@@ -7,11 +7,11 @@ Hello, friend👋! I'm Dhananjay
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay7200&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay7200" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lazylucidreamer" target="blank"><img src="https://img.shields.io/twitter/follow/siDarthVad3r?logo=twitter&style=for-the-badge" alt="lazylucidreamer" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/lazylucidreamer" target="blank"><img src="https://img.shields.io/twitter/follow/siDarthVad3r?logo=twitter&style=for-the-badge" alt="lazylucidreamer" /></a> </p>-->
 
-- 🔭 I’m currently working on **Birthday management app**
+- 🔭 I’m currently working on **CarPooling  app**
 
-- 🌱 I’m currently learning **Java, react and development methodologies**
+- 🌱 I’m currently learning **C#, react,Angular and development methodologies**
 
 - 📫 How to reach me **dhananjaykhuje@gmail.com**
 
